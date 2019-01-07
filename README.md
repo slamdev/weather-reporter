@@ -8,7 +8,7 @@ curl "https://query.yahooapis.com/v1/public/yql?q=select%20item.condition%2C%20w
 ```
 2. [OpenWeatherMap](https://openweathermap.org/current) (failover):
 ```bash
-curl "http://api.openweathermap.org/data/2.5/weather?q=sydney,AU&appid=2326504fb9b100bee21400190e4dbe6d"
+curl "http://api.openweathermap.org/data/2.5/weather?q=sydney,AU&appid=_REPLACE_"
 ```
 
 ## Specs
